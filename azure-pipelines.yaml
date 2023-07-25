@@ -15,4 +15,4 @@ stages:
       AdminTestPassword: $(AdminTestPassword)
       HostingPlan: $(HostingPlan)
       ServerName: $(ServerName)
-      WebsiteName: $(WebsiteName) 
+      WebsiteName: $(WebsiteName)
